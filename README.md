@@ -22,6 +22,7 @@ If you have any further questions and/or might like to join us, please read the 
 - [**Is this another ML or AI meetup?**](#is-this-another-ml-or-ai-meetup)
 - [**Which programming language do you work with?**](#which-programming-language-do-you-work-with)
 - [**Are you guys bayesians or frequentists? Data or algorithmic modelling?**](#are-you-guys-bayesians-or-frequentists-data-or-algorithmic-modelling)
+- [**Do I need to read a paper before attending the meetup?**](#do-i-need-to-read-a-paper-before-attending-the-meetup)
 
 #### How can I contact you?
 To contact us, feel free to speak up in [our public Telegram group](https://t.me/mu_sigma) or write us an Email on .

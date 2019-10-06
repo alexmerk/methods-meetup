@@ -6,6 +6,10 @@ Note that the meetings are listed in the reversed order (from latest to earliest
 ### 2019-08-14
 * Hodges, J. S. (2019). Statistical methods research done as science rather than mathematics. *arXiv preprint arXiv:1905.08381*.
 
+### 2019-07-31
+* Fisher, R. (1955). Statistical methods and scientific induction. *Journal of the Royal Statistical Society: Series B (Methodological)*, *17*(1), 69-78.
+* [Link to protocol](protocols/2019-07-31.md)
+
 ### 2019-07-10
 * First "public" meetup.
 *  Karl, F. (2012).  A free energy principle for biological systems. *Entropy*, *14*(11), 2100-2121. https://doi.org/10.3390/e14112100

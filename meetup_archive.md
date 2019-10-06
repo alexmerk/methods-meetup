@@ -1,5 +1,5 @@
 ## Archive of Mu Sigma meetups
-Note that the meetings are listed in the reversed order (from latest to earliest). Some protocols are missing due to the fact that we didn't write them regularly in the first few times.
+Note that the meetings are listed in the reversed order (from latest to earliest). Some protocols are missing due to the fact that we didn't write them regularly in the early times.
 
 ### Summer break 2019-08-15 to 2019-10-13
 

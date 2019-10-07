@@ -8,7 +8,7 @@ The discussions in our meetings have a rather broad scope but mainly revolve aro
 * Epistemology: What is knowledge and how it should be obtained? What is the role of statistics in that process?
 * The proper application of statistical methods in research and working environments, as well as ongoing developments therein
 * Ongoing replicability crisis (especially in social sciences)
-* Do biological systems perform inferences?
+* Do biological systems perform inferences and if so how?
 * Technicalities of particular statistical methods and/or software
 
 A good way to understand what Mu Sigma is about is to check out the papers and the protocols of our last meetings. The list of the papers we've already discussed is available in [our meetup archive](meetup_archive.md). The list of papers proposed to be read in future is available [here](reading-list.md). The protocols or our meetings are available in the [following folder](/protocols).  
